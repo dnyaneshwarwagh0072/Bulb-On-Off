@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(44, 43, 50);
+}
+
+h1{
+    color: rgb(219, 201, 175);
+    margin-bottom: 90px;
+}
+
+button{
+    padding: 10px 40px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: yellowgreen;
+    border-radius: 25px;
+}
+
+img{
+    width: 300px;
+}
+
+#main_div{
+    text-align: center;
+    margin-top: 5rem;
+}
